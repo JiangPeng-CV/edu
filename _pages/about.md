@@ -11,7 +11,7 @@ Peng Jiang, an intermediate translator, graduated from   [School of Foreign Lang
 
 You can find my CV here: [JiangPeng's Curriculum Vitae](../assets/JiangPeng_CV.pdf).
 
-[Email](mailto:mr.jiangpeng@qq.com) / [Github](https://jiangpeng-cv.github.io/edu/) / [Wechat](../images/wechat.jpg)/
+[Email](mr.jiangpeng@qq.com) / [Github](https://jiangpeng-cv.github.io/edu/) / [Wechat](../images/wechat.jpg)/
 
 
 
