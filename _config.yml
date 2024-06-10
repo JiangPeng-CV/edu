@@ -26,7 +26,8 @@ author:
   pronouns         : his # example: "his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hunan，China"
-  employer         : "Zhongnan University of Economics and Law"
+  employer         : "Zhongnan University of 
+                    br: Economics and Law"
   uri              : # URL
   email            : "Mr.JiangPeng@qq.com" 
 
