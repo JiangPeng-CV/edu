@@ -12,7 +12,7 @@ title                    : "Jiang Peng / Curriculum Vitae"
 title_separator          : "-"
 name                     : &name "Jiang Peng"
 description              : &description "a Lecturer and an intermediate translator "
-url                      :“https://jiangpeng-cv.github.io/edu/” # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiangpeng-cv.github.io/edu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/JiangPeng-CV/edu.git"
 
