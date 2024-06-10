@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 95%;
+    overflow: hidden;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30%;
+    height: 70%;
+    background: url('../../images/self-portrait.png') no-repeat center center;
+    background-size: cover;
+    z-index: -1;
+}
+
+.background-image::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 100%;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.content {
+    padding: 20px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+
+
+
