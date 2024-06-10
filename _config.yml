@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Curriculum Vitae"
+title                    : "Jiang Peng / Curriculum Vitae"
 title_separator          : "-"
 name                     : &name "Jiang Peng"
 description              : &description "a Lecturer and an intermediate translator "
@@ -22,11 +22,11 @@ repository               : "https://github.com/JiangPeng-CV/edu.git"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Jiang Peng"
+  pronouns         : his # example: "his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hunan，China"
-  employer         : "Red Brick University"
+  employer         : "Zhongnan University of Economics and Law"
   uri              : # URL
   email            : "Mr.JiangPeng@qq.com" 
 
